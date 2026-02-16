@@ -1,43 +1,59 @@
-# Hi, I'm Abdulrahman 👋  
+<p align="center">
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=200&section=header&text=Abdulrahman%20Abdulrazek&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdulrahman-DataAnalyst">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201151225742">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="mailto:shtqabdo4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## 📊 Data Analyst  
-Passionate about transforming data into actionable insights with a strong financial background.
+Transforming raw data into meaningful insights and data-driven decisions.
 
 ---
 
-## 💰 Background in Finance
-With academic and practical exposure to financial economics, I specialize in analyzing data to support financial decision-making, performance evaluation, and strategic planning.
+### 🚀 About Me
+Detail-oriented Data Analyst skilled in cleaning, analyzing, and visualizing data to uncover trends and support business growth.
 
 ---
 
-## 🛠 Skills
-- Data Analysis
-- Excel (Advanced)
-- SQL
-- Power BI
-- Python (Pandas, NumPy)
-- Data Visualization
-- Financial Analysis
-- Financial Modeling
+### 🛠 Tech Stack
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png">
+</p>
 
 ---
 
 ## 📈 What I Do
-✔ Analyze datasets to uncover trends and insights  
-✔ Build interactive dashboards  
-✔ Perform financial performance analysis  
-✔ Support data-driven business decisions  
+- Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- Dashboard Development  
+- KPI & Performance Reporting  
+- Business Insights & Storytelling  
 
 ---
 
-## 📂 Featured Projects
-🔹 Sales Performance Dashboard  
-🔹 Financial Data Analysis Report  
-🔹 KPI & Profitability Analysis  
-🔹 Customer Segmentation Model  
+## 📊 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Razek&show_icons=true&theme=tokyonight&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Razek&layout=compact&theme=tokyonight&hide_border=true" /> |
+| ------------- | ------------- |
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/abdulrahman-DataAnalyst]
-- Email: shtqabdo4@gmail.com
+<p align="center">
+  💡 Turning Data into Smart Decisions
+</p>
