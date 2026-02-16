@@ -21,7 +21,7 @@
 
 <br>
 
-## 📊 Data Analyst | Turning Data into Actionable Insights
+## 📊 Aspiring Data Analyst | Turning Data into Actionable Insights
 
 I'm a detail-oriented **Data Analyst** passionate about transforming raw data into meaningful insights that drive business decisions and growth.
 
@@ -32,12 +32,13 @@ I'm a detail-oriented **Data Analyst** passionate about transforming raw data in
 - 🔍 Specialized in **data cleaning, analysis, and reporting**
 - 📈 Experienced in working with **databases** and **spreadsheets**
 - 💡 Focused on **data-driven decision making**
-- 🎓 **DEPI Graduate** - Data Analysis Track
+- 🎓 **DEPI Student** - Data Analysis Track
 - 🌐 Check out my **[Portfolio Website](https://abdulrahman-razek.github.io)**
+- 📚 Continuously learning and expanding my skill set
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Current Tech Stack
 
 <p align="left">
   <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="60" height="60"/>
@@ -49,6 +50,21 @@ I'm a detail-oriented **Data Analyst** passionate about transforming raw data in
 - **Excel:** Advanced Functions, Pivot Tables, VLOOKUP, Data Analysis, Charts & Graphs
 - **SQL:** MySQL, SQL Server, Queries, Joins, Data Extraction & Manipulation
 - **Data Skills:** Data Cleaning, Data Analysis, Reporting, Problem Solving
+
+<br>
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/452/tableau-software.png" alt="Tableau" width="50" height="50"/>
+</p>
+
+**🔄 In Progress:**
+- **Python** - Pandas, NumPy, Matplotlib for Data Analysis
+- **Power BI** - DAX, Power Query, Interactive Dashboards
+- **Tableau** - Data Visualization & Business Intelligence
 
 <br>
 
