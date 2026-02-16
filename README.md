@@ -5,6 +5,9 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
+  <a href="https://abdulrahman-razek.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/abdulrahman-DataAnalyst">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -26,45 +29,37 @@ I'm a detail-oriented **Data Analyst** passionate about transforming raw data in
 
 ## 🚀 About Me
 
-- 🔍 Specialized in **data cleaning, analysis, and visualization**
-- 📈 Experienced in creating **interactive dashboards** and **KPI reports**
-- 💡 Focused on **storytelling with data** to support strategic decision-making
-- 🎯 Committed to continuous learning and staying updated with industry trends
+- 🔍 Specialized in **data cleaning, analysis, and reporting**
+- 📈 Experienced in working with **databases** and **spreadsheets**
+- 💡 Focused on **data-driven decision making**
+- 🎓 **DEPI Graduate** - Data Analysis Track
+- 🌐 Check out my **[Portfolio Website](https://abdulrahman-razek.github.io)**
 
 <br>
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
-  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="60" height="60"/>
 </p>
 
 **📌 Core Skills:**
-- **Languages:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Excel
-- **Databases:** MySQL, PostgreSQL, SQL Server
-- **Tools:** Jupyter Notebook, Git, VS Code
+- **Excel:** Advanced Functions, Pivot Tables, VLOOKUP, Data Analysis, Charts & Graphs
+- **SQL:** MySQL, SQL Server, Queries, Joins, Data Extraction & Manipulation
+- **Data Skills:** Data Cleaning, Data Analysis, Reporting, Problem Solving
 
 <br>
 
 ## 📈 What I Do
 ```
 ✅ Data Cleaning & Preparation     → Ensuring quality and consistency
-✅ Exploratory Data Analysis       → Uncovering patterns and trends  
-✅ Dashboard Development           → Building interactive visualizations
-✅ KPI & Performance Reporting     → Tracking business metrics
-✅ Statistical Analysis            → Drawing meaningful conclusions
-✅ Business Intelligence           → Translating data into strategy
+✅ Data Analysis                   → Extracting insights from data  
+✅ Excel Reporting                 → Advanced formulas and pivot tables
+✅ SQL Queries                     → Retrieving and analyzing database data
+✅ Data Visualization              → Creating clear charts and reports
+✅ Business Insights               → Supporting data-driven decisions
 ```
 
 <br>
@@ -77,8 +72,7 @@ I'm a detail-oriented **Data Analyst** passionate about transforming raw data in
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Razek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulrahman-Razek&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Razek&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 </p>
 
 <br>
@@ -91,11 +85,14 @@ I'm a detail-oriented **Data Analyst** passionate about transforming raw data in
 
 <br>
 
-## 📂 Featured Projects
+## 📂 My Work
 
 <p align="center">
-  <a href="https://github.com/Abdulrahman-Razek">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://abdulrahman-razek.github.io">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-FF5722?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Abdulrahman-Razek?tab=repositories">
+    <img src="https://img.shields.io/badge/📂%20View%20Projects-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -104,7 +101,7 @@ I'm a detail-oriented **Data Analyst** passionate about transforming raw data in
 ## 📫 Let's Connect!
 
 <p align="center">
-  I'm always open to discussing <strong>data analysis projects</strong>, <strong>collaboration opportunities</strong>, or just chatting about data science!
+  I'm always open to discussing <strong>data analysis projects</strong>, <strong>collaboration opportunities</strong>, or just chatting about data!
 </p>
 
 <p align="center">
@@ -114,7 +111,7 @@ I'm a detail-oriented **Data Analyst** passionate about transforming raw data in
 <br>
 
 <p align="center">
-  <strong>💡 "Data is the new oil, but insights are the refined fuel."</strong>
+  <strong>💡 "Turning Data into Smart Business Decisions"</strong>
 </p>
 
 <br>
