@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Abdulrahman 👋  
 
-<!--
-**Abdulrahman-Razek/Abdulrahman-Razek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst  
+Passionate about transforming data into actionable insights with a strong financial background.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💰 Background in Finance
+With academic and practical exposure to financial economics, I specialize in analyzing data to support financial decision-making, performance evaluation, and strategic planning.
+
+---
+
+## 🛠 Skills
+- Data Analysis
+- Excel (Advanced)
+- SQL
+- Power BI
+- Python (Pandas, NumPy)
+- Data Visualization
+- Financial Analysis
+- Financial Modeling
+
+---
+
+## 📈 What I Do
+✔ Analyze datasets to uncover trends and insights  
+✔ Build interactive dashboards  
+✔ Perform financial performance analysis  
+✔ Support data-driven business decisions  
+
+---
+
+## 📂 Featured Projects
+🔹 Sales Performance Dashboard  
+🔹 Financial Data Analysis Report  
+🔹 KPI & Profitability Analysis  
+🔹 Customer Segmentation Model  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/abdulrahman-DataAnalyst]
+- Email: shtqabdo4@gmail.com
