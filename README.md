@@ -1,98 +1,62 @@
-<p align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=200&section=header&text=Abdulrahman%20Abdulrazek&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=35CE8D&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abdulrahman+Abdulrazek;Financial+Data+Analyst;Turning+Data+Into+Decisions;DEPI+Scholar+%7C+Finance+Major" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdulrahman-DataAnalyst">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/201151225742">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shtqabdo4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201151225742">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 <br>
 
-## 📊 Data Analyst | Turning Data into Actionable Insights
-
-I'm a detail-oriented **Data Analyst** passionate about transforming raw data into meaningful insights that drive business decisions and growth.
-
-<br>
-
-## 🚀 About Me
-
-- 🔍 Specialized in **data cleaning, analysis, and visualization**
-- 📈 Experienced in creating **interactive dashboards** and **KPI reports**
-- 💡 Focused on **storytelling with data** to support strategic decision-making
-- 🎯 Committed to continuous learning and staying updated with industry trends
-
-<br>
-
-## 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="45"/>
-</p>
-
-**Languages & Libraries:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn  
-**Databases:** MySQL, PostgreSQL, SQL Server  
-**Visualization Tools:** Power BI, Excel, Tableau  
-**Other Skills:** Statistical Analysis, Data Modeling, ETL Processes
-
-<br>
-
-## 📈 What I Do
-
-✅ **Data Cleaning & Preparation** – Ensuring data quality and consistency  
-✅ **Exploratory Data Analysis (EDA)** – Uncovering patterns and trends  
-✅ **Dashboard Development** – Building interactive and insightful visualizations  
-✅ **KPI & Performance Reporting** – Tracking metrics that matter  
-✅ **Business Intelligence** – Translating data into strategic recommendations
-
-<br>
-
-## 📊 GitHub Stats
+<h2 align="center">⚡ About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Razek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Razek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Razek&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+ <b>Financial Data Analyst</b> & <b>Finance Student (ACU)</b>.<br>
+ I bridge the gap between <b>Financial Theory</b> and <b>Data Science</b> using modern tech stacks.<br>
+ Currently mastering <b>Power BI</b> & <b>Advanced SQL</b> through the <b>DEPI</b> initiative.
 </p>
 
 <br>
 
-## 🏆 GitHub Trophies
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman-Razek&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
+<div align="center">
 
-<br>
+| **Data Analysis** | **Databases** | **Visualization** |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <br> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <br> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> |
 
-## 📫 Let's Connect!
-
-I'm always open to discussing **data analysis projects**, **collaboration opportunities**, or just chatting about data science!
-
-<p align="center">
-  <strong>💡 "Data is the new oil, but insights are the refined fuel."</strong>
-</p>
+</div>
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=120&section=footer"/>
-</p>
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<div align="center">
+  <a href="https://github.com/Abdulrahman-Razek">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Razek&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=35ce8d&icon_color=35ce8d" height="150" alt="stats" />
+  </a>
+  <a href="https://github.com/Abdulrahman-Razek">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Razek&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=35ce8d" height="150" alt="languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Razek&theme=radical&hide_border=true&background=0d1117&ring=35ce8d&fire=35ce8d&currStreakLabel=35ce8d" alt="streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Razek&style=flat-square&color=35ce8d&label=Profile+Views" alt="views" />
+</div>
